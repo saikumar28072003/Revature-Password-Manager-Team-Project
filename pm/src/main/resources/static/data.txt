@@ -1,1 +1,0 @@
-//i will privide data for manually store in database
